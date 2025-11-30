@@ -1,0 +1,11 @@
+streamlit>=1.26.0
+python-dotenv>=1.0.0
+base64
+langchain>=1.0.0
+langchain-core>=0.1.0
+langchain-community>=0.0.200
+langchain-chroma>=0.0.1
+langchain-groq>=0.0.6
+langchain-text-splitters>=0.1.0
+ollama>=0.1.0
+chromadb>=0.3.29
