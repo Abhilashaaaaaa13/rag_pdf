@@ -1,0 +1,27 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.env
+
+# Streamlit specific
+.streamlit/
+
+# PDF temporary files
+*.pdf
+temp_*.pdf
+
+# Chroma vector database storage
+chroma_store/
+index/
+
+# IDE related
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
